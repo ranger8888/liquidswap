@@ -30,7 +30,7 @@ local = "./liquidswap_init/"
 
 [dependencies.AptosFramework]
 git = "https://github.com/aptos-labs/aptos-core.git"
-rev = "985f19d40457a5f09f2d741b1feca6bf7ba1f8a6"
+rev = "25696fd266498d81d346fe86e01c330705a71465"
 subdir = "aptos-move/framework/aptos-framework"
 
 [dependencies.UQ64x64]
